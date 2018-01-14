@@ -1,3 +1,4 @@
+# 補足:WA
 def main():
     K = int(input())
     A = list(map(int, input().split()))
